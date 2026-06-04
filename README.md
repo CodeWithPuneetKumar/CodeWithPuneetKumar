@@ -22,3 +22,7 @@ Hi, I'm Puneet Kumar 👋<br><br>🔹 Computer Science Student<br>🔹 Java • 
 [![](https://komarev.com/ghpvc/?username=CodeWithPuneetKumar&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+## Sanke Eating My Github Contribution
+
+![Snake animation](https://github.com/CodeWithPuneetKumar/CodeWithPuneetKumar/blob/output/github-contribution-grid-snake.svg)
